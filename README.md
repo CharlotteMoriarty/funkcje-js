@@ -1,0 +1,2 @@
+# funkcje-js
+podstawy
