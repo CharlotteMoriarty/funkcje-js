@@ -1,2 +1,2 @@
-# funkcje-js
-podstawy
+❉ podstawy javascript
+
